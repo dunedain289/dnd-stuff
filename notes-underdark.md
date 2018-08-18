@@ -46,7 +46,7 @@ there was something magical about that spot
 
 the dwarf merc asks her about the blade
 
-there's a duergar fortess somewhere, the axe broke their magic
+there's a duergar fortress somewhere, the axe broke their magic
 
 one of the mercs (bartram) is both desecrated and blessed
 their cleric (or tibbers) seems to have worked on things
@@ -95,7 +95,7 @@ combat!
 * finn told everyone to get out of the darkness, tried to hit drider that ran, but missed
 * dune tried to attack a spider threatening stalwart, but missed
 * daina beat the shit out of the draegloth
-* stalwart got out of the dark, then knocked the draegloth down, then smashed the shit out of the draegloth 
+* stalwart got out of the dark, then knocked the draegloth down, then smashed the shit out of the draegloth
 * randall went over to nocturnus and inspired him to get up and get moving
 * nocturnus attacks the downed draegloth, killed it with nightmare
     as he stabs it, it goes to smoke thanos style, gets absorbed into the sword
@@ -105,7 +105,7 @@ combat!
 * irethia gets out of the dark, and firebolts a draegloth twice for major dmg (breaks darkness concentration)
 * irethia then takes longbow shots from a drider
 * daina got an opportunity attack first though
-* sprocket firebolts the spider near me, kills me 
+* sprocket firebolts the spider near me, kills it
 * barden gets slashed by the draegloth, but gets an opportunity attack
 * i shoot the remaining draegloth twice, for good dmg
 * finn also shoots the draegloth, hit and miss
@@ -118,4 +118,3 @@ combat!
 * sprocket mind-spikes the draegloth, but doesn't kill it
 * another darkness cast over by the draegloth
 * then something picked daina's pack, and stole her axe (within darkness)
-

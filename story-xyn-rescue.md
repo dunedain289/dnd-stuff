@@ -14,8 +14,8 @@ _I cannot change the place, but I can change the time... rest... study... choose
 
 With time to recover from Jack's fall, we had a chance. Only a chance against
 the original tiefling, a man who's fiendish bargain changed an entire people.
-But at least we wouldn't be too late. Leonidas' gift to Nyx would ensure our
-timely arrival.   
+But at least we wouldn't be too late to even try. Leonidas' gift to Nyx would
+ensure our timely arrival.    
 
 Randall opens our attack by breaking part of Tygras' fiendish protection.
 Stalwart charges with a draconic bellow and knocks the part-fiend onto his ass,
@@ -37,4 +37,4 @@ are lost in Fen's murky silence.
 Tygras' yuan-ti lieutenant, Mathia, tries to flee across the planes, but is
 foiled by the death of her patron. Mathia curses us, and Xyn's taunting reply to
 the yuan-ti, "My sister's here. I'm here. Zephyron is whole. You have lost
-today, snake." lets us all know that we arrived in time.
+today, snake." assures that we arrived in time.
